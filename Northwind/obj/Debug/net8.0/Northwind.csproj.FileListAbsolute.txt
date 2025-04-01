@@ -1,0 +1,9 @@
+/workspaces/ITEC2505-Module9Lab/Northwind/obj/Debug/net8.0/Northwind.csproj.AssemblyReference.cache
+/workspaces/ITEC2505-Module9Lab/Northwind/obj/Debug/net8.0/Northwind.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ITEC2505-Module9Lab/Northwind/obj/Debug/net8.0/Northwind.AssemblyInfoInputs.cache
+/workspaces/ITEC2505-Module9Lab/Northwind/obj/Debug/net8.0/Northwind.AssemblyInfo.cs
+/workspaces/ITEC2505-Module9Lab/Northwind/obj/Debug/net8.0/Northwind.csproj.CoreCompileInputs.cache
+/workspaces/ITEC2505-Module9Lab/Northwind/obj/Debug/net8.0/Northwind.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/ITEC2505-Module9Lab/Northwind/obj/Debug/net8.0/Northwind.RazorAssemblyInfo.cache
+/workspaces/ITEC2505-Module9Lab/Northwind/obj/Debug/net8.0/Northwind.RazorAssemblyInfo.cs
+/workspaces/ITEC2505-Module9Lab/Northwind/obj/Debug/net8.0/Northwind.sourcelink.json
